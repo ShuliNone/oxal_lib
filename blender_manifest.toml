@@ -1,0 +1,9 @@
+schema_version = "1.0.0"
+id = "oxal_lib"
+version = "0.1.0"
+name = "oxal_lib"
+tagline = "Modular tools for Blender"
+maintainer = "oxal_lib"
+type = "add-on"
+blender_version_min = "4.5.0"
+license = ["SPDX:GPL-3.0-or-later"]
